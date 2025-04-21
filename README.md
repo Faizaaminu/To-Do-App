@@ -14,13 +14,13 @@ A simple and interactive To-Do List web application that helps users manage thei
 ## 🛠️ Technologies Used
 
 - HTML5
-- CSS3
-- JavaScript (Vanilla JS)
+- CSS
+- JavaScript 
 - Firebase Realtime Database
 
 ## 📦 Installation & Usage
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
-   cd todo-app
+   git clone [https://github.com/your-username/todo-app.git
+   cd todo-app](https://github.com/Faizaaminu/To-Do-App.git)
